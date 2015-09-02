@@ -203,23 +203,23 @@
 		},
 		{
 			"title": 		"SPA FIZZ LOGO CMYK",
-			"imageUrl": 	"http://www.americanails.com/download-center/logos/Spa-Fizz.gif",
+			"imageUrl": 	"/static/download-center/logos/Spa-Fizz.gif",
 			"webLink": 		"",
 			"printLink": 	"",
 			"epsLink":		"",
 			"psdLink":		"",
-			"jpegLink":		"http://www.americanails.com/download-center/logos/Spa-Fizz.jpg",			
-			"pdfLink":		"http://www.americanails.com/download-center/logos/Spa-Fizz-CMYK.pdf"
+			"jpegLink":		"/static/download-center/logos/Spa-Fizz.jpg",			
+			"pdfLink":		"/static/download-center/logos/Spa-Fizz-CMYK.pdf"
 		},
 		{
 			"title": 		"SPA FIZZ LOGO BLACK",
-			"imageUrl": 	"http://www.americanails.com/download-center/logos/Spa-Fizz-BLACK.gif",
+			"imageUrl": 	"/static/download-center/logos/Spa-Fizz-BLACK.gif",
 			"webLink": 		"",
 			"printLink": 	"",
-			"epsLink":		"http://www.americanails.com/download-center/logos/Spa-Fizz-BLACK.eps",
+			"epsLink":		"/static/download-center/logos/Spa-Fizz-BLACK.eps",
 			"psdLink":		"",
 			"jpegLink":		"",			
-			"pdfLink":		"http://www.americanails.com/download-center/logos/Spa-Fizz-BLACK.pdf"
+			"pdfLink":		"/static/download-center/logos/Spa-Fizz-BLACK.pdf"
 		},
 		{
 			"title": 		"",
