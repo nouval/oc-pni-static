@@ -3,9 +3,9 @@
 	"result": [
 		{
 			"title": 		"Download ALL Images and Logos for Colour Collection",
-			"imageUrl": 	"http://www.americanails.com/download-center/images/web/nail-art/Colour-Collection/Colour-Collection-Category-BLACK.jpg",
-			"webLink": 		"http://www.americanails.com/download-center/images/web/nail-art/Colour-Collection/Colour-Collection-WEB.zip",
-			"printLink": 	"http://www.americanails.com/download-center/images/print/nail-art/Colour-Collection/Colour-Collection-PRINT.zip",
+			"imageUrl": 	"/static/download-center/images/web/nail-art/Colour-Collection/Colour-Collection-Category-BLACK.jpg",
+			"webLink": 		"/static/download-center/images/web/nail-art/Colour-Collection/Colour-Collection-WEB.zip",
+			"printLink": 	"/static/download-center/images/print/nail-art/Colour-Collection/Colour-Collection-PRINT.zip",
 			"epsLink":		"",
 			"psdLink":		"",
 			"jpegLink":		"",			
@@ -13,9 +13,9 @@
 		},
 		{
 			"title": 		"Download ALL Images of Colour Collections in Blister Packs ONLY",
-			"imageUrl": 	"http://www.americanails.com/download-center/images/web/nail-art/Colour-Collection/Crushed-Shells-Pkg.jpg",
-			"webLink": 		"http://www.americanails.com/download-center/images/web/nail-art/Colour-Collection/Colour-Collection-Packaged-WEB.zip",
-			"printLink": 	"http://www.americanails.com/download-center/images/print/nail-art/Colour-Collection/Colour-Collections-Packaged-PRINT.zip",
+			"imageUrl": 	"/static/download-center/images/web/nail-art/Colour-Collection/Crushed-Shells-Pkg.jpg",
+			"webLink": 		"/static/download-center/images/web/nail-art/Colour-Collection/Colour-Collection-Packaged-WEB.zip",
+			"printLink": 	"/static/download-center/images/print/nail-art/Colour-Collection/Colour-Collections-Packaged-PRINT.zip",
 			"epsLink":		"",
 			"psdLink":		"",
 			"jpegLink":		"",			
@@ -23,9 +23,9 @@
 		},
 		{
 			"title": 		"Download 6 Close-Ups of Colour Collection Nail Art Products",
-			"imageUrl": 	"http://www.americanails.com/download-center/images/web/nail-art/Colour-Collection/Crushed-Shells-Pile.jpg",
-			"webLink": 		"http://www.americanails.com/download-center/images/web/nail-art/Colour-Collection/Colour-Collection-Detail-WEB.zip",
-			"printLink": 	"http://www.americanails.com/download-center/images/print/nail-art/Colour-Collection/Colour-Collection-Detail-PRINT.zip",
+			"imageUrl": 	"/static/download-center/images/web/nail-art/Colour-Collection/Crushed-Shells-Pile.jpg",
+			"webLink": 		"/static/download-center/images/web/nail-art/Colour-Collection/Colour-Collection-Detail-WEB.zip",
+			"printLink": 	"/static/download-center/images/print/nail-art/Colour-Collection/Colour-Collection-Detail-PRINT.zip",
 			"epsLink":		"",
 			"psdLink":		"",
 			"jpegLink":		"",			
@@ -33,39 +33,39 @@
 		},
 		{
 			"title": 		"COLOUR COLLECTION LOGOS (Black)",
-			"imageUrl": 	"http://www.americanails.com/download-center/logos/Colour-Collection-Black-Box.gif",
+			"imageUrl": 	"/static/download-center/logos/Colour-Collection-Black-Box.gif",
 			"webLink": 		"",
 			"printLink": 	"",
-			"epsLink":		"http://www.americanails.com/download-center/logos/Colour-Collection-Black-Box-CMYK.eps",
+			"epsLink":		"/static/download-center/logos/Colour-Collection-Black-Box-CMYK.eps",
 			"psdLink":		"",
 			"jpegLink":		"",			
-			"pdfLink":		"http://www.americanails.com/download-center/logos/Colour-Collection-Black-Box-CMYK.pdf"
+			"pdfLink":		"/static/download-center/logos/Colour-Collection-Black-Box-CMYK.pdf"
 		},
 		{
 			"title": 		"COLOUR COLLECTION LOGOS (CMYK)",
-			"imageUrl": 	"http://www.americanails.com/download-center/logos/Colour-Collection-NO-BOX.gif",
+			"imageUrl": 	"/static/download-center/logos/Colour-Collection-NO-BOX.gif",
 			"webLink": 		"",
 			"printLink": 	"",
-			"epsLink":		"http://www.americanails.com/download-center/logos/Colour-Collection-NO-BOX-CMYK.eps",
+			"epsLink":		"/static/download-center/logos/Colour-Collection-NO-BOX-CMYK.eps",
 			"psdLink":		"",
 			"jpegLink":		"",			
-			"pdfLink":		"http://www.americanails.com/download-center/logos/Colour-Collection-NO-BOX-CMYK.pdf"
+			"pdfLink":		"/static/download-center/logos/Colour-Collection-NO-BOX-CMYK.pdf"
 		},
 		{
 			"title": 		"COLOUR COLLECTION LOGO (BLACK)",
-			"imageUrl": 	"http://www.americanails.com/download-center/logos/Colour-Collection-NO-BOX-BLACK.gif",
+			"imageUrl": 	"/static/download-center/logos/Colour-Collection-NO-BOX-BLACK.gif",
 			"webLink": 		"",
 			"printLink": 	"",
-			"epsLink":		"http://www.americanails.com/download-center/logos/Colour-Collection-NO-BOX-BLACK.eps",
+			"epsLink":		"/static/download-center/logos/Colour-Collection-NO-BOX-BLACK.eps",
 			"psdLink":		"",
 			"jpegLink":		"",			
-			"pdfLink":		"http://www.americanails.com/download-center/logos/Colour-Collection-NO-BOX-BLACK.pdf"
+			"pdfLink":		"/static/download-center/logos/Colour-Collection-NO-BOX-BLACK.pdf"
 		},
 		{
 			"title": 		"DOWNLOAD ALL PRINTABLE LOGOS COLOUR COLLECTION (CMYK & BLACK)",
-			"imageUrl": 	"http://www.americanails.com/download-center/logos/Colour-Collection-NO-BOX-BLACK.gif",
+			"imageUrl": 	"/static/download-center/logos/Colour-Collection-NO-BOX-BLACK.gif",
 			"webLink": 		"",
-			"printLink": 	"http://www.americanails.com/download-center/images/print/nail-art/Colour-Collection/Colour-Collection-Logos.zip",
+			"printLink": 	"/static/download-center/images/print/nail-art/Colour-Collection/Colour-Collection-Logos.zip",
 			"epsLink":		"",
 			"psdLink":		"",
 			"jpegLink":		"",			

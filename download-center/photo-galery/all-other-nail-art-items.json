@@ -3,9 +3,9 @@
 	"result": [
 		{
 			"title": 		"Finger Rest",
-			"imageUrl": 	"http://www.americanails.com/download-center/images/web/nail-art/misc-nail-art/finger-rest.jpg",
-			"webLink": 		"http://www.americanails.com/download-center/images/web/nail-art/misc-nail-art/finger-rest.jpg",
-			"printLink": 	"http://www.americanails.com/download-center/images/print/miscellaneous/polish-accessories/finger-rest-PRINT.zip",
+			"imageUrl": 	"/static/download-center/images/web/nail-art/misc-nail-art/finger-rest.jpg",
+			"webLink": 		"/static/download-center/images/web/nail-art/misc-nail-art/finger-rest.jpg",
+			"printLink": 	"/static/download-center/images/print/miscellaneous/polish-accessories/finger-rest-PRINT.zip",
 			"epsLink":		"",
 			"psdLink":		"",
 			"jpegLink":		"",			
@@ -13,9 +13,9 @@
 		},
 		{
 			"title": 		"Nail Art Paint Sets",
-			"imageUrl": 	"http://www.americanails.com/download-center/images/web/nail-art/misc-nail-art/paint-sets.jpg",
-			"webLink": 		"http://www.americanails.com/download-center/images/web/nail-art/misc-nail-art/paint-sets.jpg",
-			"printLink": 	"http://www.americanails.com/download-center/images/print/nail-art/misc-nail-art/Nail-Art-Paint-Sets-PRINT.zip",
+			"imageUrl": 	"/static/download-center/images/web/nail-art/misc-nail-art/paint-sets.jpg",
+			"webLink": 		"/static/download-center/images/web/nail-art/misc-nail-art/paint-sets.jpg",
+			"printLink": 	"/static/download-center/images/print/nail-art/misc-nail-art/Nail-Art-Paint-Sets-PRINT.zip",
 			"epsLink":		"",
 			"psdLink":		"",
 			"jpegLink":		"",			
@@ -23,9 +23,9 @@
 		},
 		{
 			"title": 		"Empty Rhinestone Wheel",
-			"imageUrl": 	"http://www.americanails.com/download-center/images/web/nail-art/misc-nail-art/empty-rhinestone-wheel.jpg",
-			"webLink": 		"http://www.americanails.com/download-center/images/web/nail-art/misc-nail-art/empty-rhinestone-wheel.jpg",
-			"printLink": 	"http://www.americanails.com/download-center/images/print/nail-art/misc-nail-art/Empty-Rhinestone-Wheel-PRINT.zip",
+			"imageUrl": 	"/static/download-center/images/web/nail-art/misc-nail-art/empty-rhinestone-wheel.jpg",
+			"webLink": 		"/static/download-center/images/web/nail-art/misc-nail-art/empty-rhinestone-wheel.jpg",
+			"printLink": 	"/static/download-center/images/print/nail-art/misc-nail-art/Empty-Rhinestone-Wheel-PRINT.zip",
 			"epsLink":		"",
 			"psdLink":		"",
 			"jpegLink":		"",			
@@ -34,18 +34,18 @@
 		{
 			"title": 		"Mr. Marble Dotting Tool",
 			"imageUrl": 	"Mr. Marble Dotting Tool",
-			"webLink": 		"http://www.americanails.com/download-center/images/web/nail-art/brushes-tools/dotting-tool.jpg",
-			"printLink": 	"http://www.americanails.com/download-center/images/web/nail-art/brushes-tools/dotting-tool.jpg",
+			"webLink": 		"/static/download-center/images/web/nail-art/brushes-tools/dotting-tool.jpg",
+			"printLink": 	"/static/download-center/images/web/nail-art/brushes-tools/dotting-tool.jpg",
 			"epsLink":		"",
 			"psdLink":		"",
 			"jpegLink":		"",			
-			"pdfLink":		"http://www.americanails.com/download-center/logos/Mr-Marble-LOGOS.zip"
+			"pdfLink":		"/static/download-center/logos/Mr-Marble-LOGOS.zip"
 		},
 		{
 			"title": 		"EZ Art Polish Stencils All available images.",
-			"imageUrl": 	"http://www.americanails.com/download-center/images/web/nail-art/EZ-Art-Stencils/EZArt-Stencils.jpg",
-			"webLink": 		"http://www.americanails.com/download-center/images/web/nail-art/EZ-Art-Stencils/EZ-Art-WEB.zip",
-			"printLink": 	"http://www.americanails.com/download-center/images/print/nail-art/EZ-Art-Polish-Stencils/EZ-Art-PRINT.zip",
+			"imageUrl": 	"/static/download-center/images/web/nail-art/EZ-Art-Stencils/EZArt-Stencils.jpg",
+			"webLink": 		"/static/download-center/images/web/nail-art/EZ-Art-Stencils/EZ-Art-WEB.zip",
+			"printLink": 	"/static/download-center/images/print/nail-art/EZ-Art-Polish-Stencils/EZ-Art-PRINT.zip",
 			"epsLink":		"",
 			"psdLink":		"",
 			"jpegLink":		"",			

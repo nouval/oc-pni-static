@@ -3,9 +3,9 @@
 	"result": [
 		{
 			"title": 		"Download All Available Images for FIMO FUN SHAPES",
-			"imageUrl": 	"http://www.americanails.com/download-center/images/web/nail-art/FIMO/FIMO-Fun-Shapes/FIMO-Fun-Shapes.jpg",
-			"webLink": 		"http://www.americanails.com/download-center/images/web/nail-art/FIMO/FIMO-Fun-Shapes-WEB.zip",
-			"printLink": 	"http://www.americanails.com/download-center/images/web/nail-art/FIMO/FIMO-Fun-Shapes-WEB.zip",
+			"imageUrl": 	"/static/download-center/images/web/nail-art/FIMO/FIMO-Fun-Shapes/FIMO-Fun-Shapes.jpg",
+			"webLink": 		"/static/download-center/images/web/nail-art/FIMO/FIMO-Fun-Shapes-WEB.zip",
+			"printLink": 	"/static/download-center/images/web/nail-art/FIMO/FIMO-Fun-Shapes-WEB.zip",
 			"epsLink":		"",
 			"psdLink":		"",
 			"jpegLink":		"",			
@@ -13,9 +13,9 @@
 		},
 		{
 			"title": 		"Download All Available Images for FIMO FRUIT",
-			"imageUrl": 	"http://www.americanails.com/download-center/images/web/nail-art/FIMO/FIMO-Fruit/FIMO-fruit.jpg",
-			"webLink": 		"http://www.americanails.com/download-center/images/web/nail-art/FIMO/FIMO-Fruit-WEB.zip",
-			"printLink": 	"http://www.americanails.com/download-center/images/print/nail-art/FIMO/FIMO-Fruit-PRINT.zip",
+			"imageUrl": 	"/static/download-center/images/web/nail-art/FIMO/FIMO-Fruit/FIMO-fruit.jpg",
+			"webLink": 		"/static/download-center/images/web/nail-art/FIMO/FIMO-Fruit-WEB.zip",
+			"printLink": 	"/static/download-center/images/print/nail-art/FIMO/FIMO-Fruit-PRINT.zip",
 			"epsLink":		"",
 			"psdLink":		"",
 			"jpegLink":		"",			
@@ -23,9 +23,9 @@
 		},
 		{
 			"title": 		"FIMO FRUIT SALAD",
-			"imageUrl": 	"http://www.americanails.com/download-center/images/web/nail-art/FIMO/FIMO-Fruit/FIMO-Fruit-Salad.jpg",
-			"webLink": 		"http://www.americanails.com/download-center/images/web/nail-art/FIMO/FIMO-Fruit/FIMO-Fruit-Salad.jpg",
-			"printLink": 	"http://www.americanails.com/download-center/images/print/nail-art/FIMO/FIMO-Fruit/FIMO-Fruit-Salad.jpg",
+			"imageUrl": 	"/static/download-center/images/web/nail-art/FIMO/FIMO-Fruit/FIMO-Fruit-Salad.jpg",
+			"webLink": 		"/static/download-center/images/web/nail-art/FIMO/FIMO-Fruit/FIMO-Fruit-Salad.jpg",
+			"printLink": 	"/static/download-center/images/print/nail-art/FIMO/FIMO-Fruit/FIMO-Fruit-Salad.jpg",
 			"epsLink":		"",
 			"psdLink":		"",
 			"jpegLink":		"",			
@@ -33,23 +33,23 @@
 		},
 		{
 			"title": 		"LOGO - CMYK",
-			"imageUrl": 	"http://www.americanails.com/download-center/logos/FIMO-Fun-Shapes-Logo.jpg",
-			"webLink": 		"http://www.americanails.com/download-center/logos/FIMO-Fun-Shapes-Logo.jpg",
+			"imageUrl": 	"/static/download-center/logos/FIMO-Fun-Shapes-Logo.jpg",
+			"webLink": 		"/static/download-center/logos/FIMO-Fun-Shapes-Logo.jpg",
 			"printLink": 	"",
-			"epsLink":		"http://www.americanails.com/download-center/logos/FIMO-Fun-Shapes-Logo.eps",
+			"epsLink":		"/static/download-center/logos/FIMO-Fun-Shapes-Logo.eps",
 			"psdLink":		"",
 			"jpegLink":		"",			
-			"pdfLink":		"http://www.americanails.com/download-center/logos/FIMO-Fun-Shapes-Logo.pdf"
+			"pdfLink":		"/static/download-center/logos/FIMO-Fun-Shapes-Logo.pdf"
 		},
 		{
 			"title": 		"LOGO - CMYK",
-			"imageUrl": 	"http://www.americanails.com/download-center/logos/FIMO-Fruit-Logo.jpg",
-			"webLink": 		"http://www.americanails.com/download-center/logos/FIMO-Fruit-Logo.jpg",
+			"imageUrl": 	"/static/download-center/logos/FIMO-Fruit-Logo.jpg",
+			"webLink": 		"/static/download-center/logos/FIMO-Fruit-Logo.jpg",
 			"printLink": 	"",
-			"epsLink":		"http://www.americanails.com/download-center/logos/FIMO-Fruit-Logo.eps",
+			"epsLink":		"/static/download-center/logos/FIMO-Fruit-Logo.eps",
 			"psdLink":		"",
 			"jpegLink":		"",			
-			"pdfLink":		"http://www.americanails.com/download-center/logos/FIMO-Fruit-Logo.pdf"
+			"pdfLink":		"/static/download-center/logos/FIMO-Fruit-Logo.pdf"
 		}
 	]
 }

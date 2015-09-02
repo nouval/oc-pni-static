@@ -3,53 +3,53 @@
 	"result": [
 		{
 			"title": 		"(CMYK)",
-			"imageUrl": 	"http://www.americanails.com/download-center/logos/Angel-Hair.gif",
+			"imageUrl": 	"/static/download-center/logos/Angel-Hair.gif",
 			"webLink": 		"",
 			"printLink": 	"",
-			"epsLink":		"http://www.americanails.com/download-center/logos/Angel-Hair-CMYK.eps",
+			"epsLink":		"/static/download-center/logos/Angel-Hair-CMYK.eps",
 			"psdLink":		"",
 			"jpegLink":		"",			
-			"pdfLink":		"http://www.americanails.com/download-center/logos/Angel-Hair-CMYK.pdf"
+			"pdfLink":		"/static/download-center/logos/Angel-Hair-CMYK.pdf"
 		},
 		{
 			"title": 		"(BLACK)",
-			"imageUrl": 	"http://www.americanails.com/download-center/logos/Angel-Hair-BLACK.gif",
+			"imageUrl": 	"/static/download-center/logos/Angel-Hair-BLACK.gif",
 			"webLink": 		"",
 			"printLink": 	"",
-			"epsLink":		"http://www.americanails.com/download-center/logos/Angel-Hair-BLACK.eps",
+			"epsLink":		"/static/download-center/logos/Angel-Hair-BLACK.eps",
 			"psdLink":		"",
 			"jpegLink":		"",			
-			"pdfLink":		"http://www.americanails.com/download-center/logos/Angel-Hair-BLACK.pdf"
+			"pdfLink":		"/static/download-center/logos/Angel-Hair-BLACK.pdf"
 		},
 		{
 			"title": 		"(CMYK)",
-			"imageUrl": 	"http://www.americanails.com/download-center/logos/Artistic-Gems.gif",
+			"imageUrl": 	"/static/download-center/logos/Artistic-Gems.gif",
 			"webLink": 		"",
 			"printLink": 	"",
-			"epsLink":		"http://www.americanails.com/download-center/logos/Artistic-Gems-CMYK.eps",
+			"epsLink":		"/static/download-center/logos/Artistic-Gems-CMYK.eps",
 			"psdLink":		"",
 			"jpegLink":		"",			
-			"pdfLink":		"http://www.americanails.com/download-center/logos/Artistic-Gems-CMYK.pdf"
+			"pdfLink":		"/static/download-center/logos/Artistic-Gems-CMYK.pdf"
 		},
 		{
 			"title": 		"(BLACK)",
-			"imageUrl": 	"http://www.americanails.com/download-center/logos/Artistic-Gems-BLACK.gif",
+			"imageUrl": 	"/static/download-center/logos/Artistic-Gems-BLACK.gif",
 			"webLink": 		"",
 			"printLink": 	"",
-			"epsLink":		"http://www.americanails.com/download-center/logos/Artistic-Gems-BLACK.eps",
+			"epsLink":		"/static/download-center/logos/Artistic-Gems-BLACK.eps",
 			"psdLink":		"",
 			"jpegLink":		"",			
-			"pdfLink":		"http://www.americanails.com/download-center/logos/Angel-Hair-BLACK.pdf"
+			"pdfLink":		"/static/download-center/logos/Angel-Hair-BLACK.pdf"
 		},
 		{
 			"title": 		"(CMYK)",
-			"imageUrl": 	"http://www.americanails.com/download-center/logos/ArtiStickers.jpg",
+			"imageUrl": 	"/static/download-center/logos/ArtiStickers.jpg",
 			"webLink": 		"",
 			"printLink": 	"",
-			"epsLink":		"http://www.americanails.com/download-center/logos/ArtiStickers-CMYK.eps",
+			"epsLink":		"/static/download-center/logos/ArtiStickers-CMYK.eps",
 			"psdLink":		"",
 			"jpegLink":		"",			
-			"pdfLink":		"http://www.americanails.com/download-center/logos/ArtiStickers-CMYK.pdf"
+			"pdfLink":		"/static/download-center/logos/ArtiStickers-CMYK.pdf"
 		},
 		{
 			"title": 		"",

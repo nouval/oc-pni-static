@@ -3,8 +3,8 @@
 	"result": [
 		{
 			"title": 		"ArtiStickers Category Image",
-			"imageUrl": 	"http://www.americanails.com/download-center/images/web/nail-art/ArtiStickers/ArtiStickers-Category.jpg",
-			"webLink": 		"http://www.americanails.com/download-center/images/web/nail-art/ArtiStickers/ArtiStickers-Category.jpg",
+			"imageUrl": 	"/static/download-center/images/web/nail-art/ArtiStickers/ArtiStickers-Category.jpg",
+			"webLink": 		"/static/download-center/images/web/nail-art/ArtiStickers/ArtiStickers-Category.jpg",
 			"printLink": 	"",
 			"epsLink":		"",
 			"psdLink":		"",
@@ -13,9 +13,9 @@
 		},
 		{
 			"title": 		"ArtiStickers (Three Samples)",
-			"imageUrl": 	"http://www.americanails.com/download-center/images/web/nail-art/ArtiStickers/ArtiStickers-Composite.jpg",
-			"webLink": 		"http://www.americanails.com/download-center/images/web/nail-art/ArtiStickers/ArtiStickers-Composite.jpg",
-			"printLink": 	"http://www.americanails.com/download-center/images/print/nail-art/ArtiStickers/Arti-Stickers-PRINT/ArtiStickers-Group.jpg",
+			"imageUrl": 	"/static/download-center/images/web/nail-art/ArtiStickers/ArtiStickers-Composite.jpg",
+			"webLink": 		"/static/download-center/images/web/nail-art/ArtiStickers/ArtiStickers-Composite.jpg",
+			"printLink": 	"/static/download-center/images/print/nail-art/ArtiStickers/Arti-Stickers-PRINT/ArtiStickers-Group.jpg",
 			"epsLink":		"",
 			"psdLink":		"",
 			"jpegLink":		"",			
@@ -23,9 +23,9 @@
 		},
 		{
 			"title": 		"Download Images of ALL ArtiStickers",
-			"imageUrl": 	"http://www.americanails.com/download-center/images/web/nail-art/ArtiStickers/ArtiStickers-Composite.jpg",
-			"webLink": 		"http://www.americanails.com/download-center/images/web/nail-art/ArtiStickers/ArtiStickers-WEB.zip",
-			"printLink": 	"http://www.americanails.com/download-center/images/print/nail-art/ArtiStickers/Arti-Stickers-PRINT.zip",
+			"imageUrl": 	"/static/download-center/images/web/nail-art/ArtiStickers/ArtiStickers-Composite.jpg",
+			"webLink": 		"/static/download-center/images/web/nail-art/ArtiStickers/ArtiStickers-WEB.zip",
+			"printLink": 	"/static/download-center/images/print/nail-art/ArtiStickers/Arti-Stickers-PRINT.zip",
 			"epsLink":		"",
 			"psdLink":		"",
 			"jpegLink":		"",			
@@ -33,29 +33,29 @@
 		},
 		{
 			"title": 		"LOGO (CMYK)",
-			"imageUrl": 	"http://www.americanails.com/download-center/logos/ArtiStickers.jpg",
+			"imageUrl": 	"/static/download-center/logos/ArtiStickers.jpg",
 			"webLink": 		"",
 			"printLink": 	"",
-			"epsLink":		"http://www.americanails.com/download-center/logos/ArtiStickers-CMYK.eps",
+			"epsLink":		"/static/download-center/logos/ArtiStickers-CMYK.eps",
 			"psdLink":		"",
 			"jpegLink":		"",			
-			"pdfLink":		"http://www.americanails.com/download-center/logos/ArtiStickers-CMYK.pdf"
+			"pdfLink":		"/static/download-center/logos/ArtiStickers-CMYK.pdf"
 		},
 		{
 			"title": 		"LOGO (BLACK)",
-			"imageUrl": 	"http://www.americanails.com/download-center/logos/ArtiStickers-BLACK.gif",
+			"imageUrl": 	"/static/download-center/logos/ArtiStickers-BLACK.gif",
 			"webLink": 		"",
 			"printLink": 	"",
-			"epsLink":		"http://www.americanails.com/download-center/logos/ArtiStickers-BLACK.eps",
+			"epsLink":		"/static/download-center/logos/ArtiStickers-BLACK.eps",
 			"psdLink":		"",
 			"jpegLink":		"",			
-			"pdfLink":		"http://www.americanails.com/download-center/logos/ArtiStickers-BLACK.pdf"
+			"pdfLink":		"/static/download-center/logos/ArtiStickers-BLACK.pdf"
 		},
 		{
 			"title": 		"Glow-in-the-Dark ArtiStickers",
-			"imageUrl": 	"http://www.americanails.com/download-center/images/web/nail-art/ArtiStickers/Glow-in-the-Dark-ArtiStickers.jpg",
-			"webLink": 		"http://www.americanails.com/download-center/images/web/nail-art/ArtiStickers/ArtiStickers-GITD-WEB.zip",
-			"printLink": 	"http://www.americanails.com/download-center/images/print/nail-art/ArtiStickers/ArtiStickers-Glow-Dark-PRINT.zip",
+			"imageUrl": 	"/static/download-center/images/web/nail-art/ArtiStickers/Glow-in-the-Dark-ArtiStickers.jpg",
+			"webLink": 		"/static/download-center/images/web/nail-art/ArtiStickers/ArtiStickers-GITD-WEB.zip",
+			"printLink": 	"/static/download-center/images/print/nail-art/ArtiStickers/ArtiStickers-Glow-Dark-PRINT.zip",
 			"epsLink":		"",
 			"psdLink":		"",
 			"jpegLink":		"",			

@@ -4,8 +4,8 @@
 	"result": [
 		{
 			"title": 		"Category Image",
-			"imageUrl": 	"http://www.americanails.com/download-center/images/web/nail-art/Exotic-Botanicals/Exotic-Botanicals.jpg",
-			"webLink": 		"http://www.americanails.com/download-center/images/web/nail-art/Exotic-Botanicals/Exotic-Botanicals.jpg",
+			"imageUrl": 	"/static/download-center/images/web/nail-art/Exotic-Botanicals/Exotic-Botanicals.jpg",
+			"webLink": 		"/static/download-center/images/web/nail-art/Exotic-Botanicals/Exotic-Botanicals.jpg",
 			"printLink": 	"",
 			"epsLink":		"",
 			"psdLink":		"",
@@ -14,9 +14,9 @@
 		},
 		{
 			"title": 		"Download All WEB IMAGES for Exotic Botanicals",
-			"imageUrl": 	"http://www.americanails.com/download-center/images/web/nail-art/Exotic-Botanicals/dried-flowers-combo.jpg",
+			"imageUrl": 	"/static/download-center/images/web/nail-art/Exotic-Botanicals/dried-flowers-combo.jpg",
 			"webLink": 		"",
-			"printLink": 	"http://www.americanails.com/download-center/images/web/nail-art/Exotic-Botanicals/Exotic-Botanicals-WEB.zip",
+			"printLink": 	"/static/download-center/images/web/nail-art/Exotic-Botanicals/Exotic-Botanicals-WEB.zip",
 			"epsLink":		"",
 			"psdLink":		"",
 			"jpegLink":		"",			
@@ -24,9 +24,9 @@
 		},
 		{
 			"title": 		"Download All PRINT IMAGES for Exotic Botanicals",
-			"imageUrl": 	"http://www.americanails.com/download-center/images/web/nail-art/Exotic-Botanicals/dried-flowers-combo.jpg",
+			"imageUrl": 	"/static/download-center/images/web/nail-art/Exotic-Botanicals/dried-flowers-combo.jpg",
 			"webLink": 		"",
-			"printLink": 	"http://www.americanails.com/download-center/images/print/nail-art/Exotic-Botanicals/Exotic-Botanicals-PRINT.zip",
+			"printLink": 	"/static/download-center/images/print/nail-art/Exotic-Botanicals/Exotic-Botanicals-PRINT.zip",
 			"epsLink":		"",
 			"psdLink":		"",
 			"jpegLink":		"",			
@@ -34,9 +34,9 @@
 		},
 		{
 			"title": 		"Download All PRINTABLE LOGOS for Exotic Botanicals",
-			"imageUrl": 	"http://www.americanails.com/download-center/logos/Exotic-Botanicals-PURPLE.jpg",
+			"imageUrl": 	"/static/download-center/logos/Exotic-Botanicals-PURPLE.jpg",
 			"webLink": 		"",
-			"printLink": 	"http://www.americanails.com/download-center/logos/Exotic-Botanicals-LOGOS.zip",
+			"printLink": 	"/static/download-center/logos/Exotic-Botanicals-LOGOS.zip",
 			"epsLink":		"",
 			"psdLink":		"",
 			"jpegLink":		"",			

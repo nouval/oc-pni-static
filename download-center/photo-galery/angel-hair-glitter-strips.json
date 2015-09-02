@@ -4,8 +4,8 @@
 	"result": [
 		{
 			"title": 		"Category Image",
-			"imageUrl": 	"http://www.americanails.com/download-center/images/web/nail-art/Angel-Hair/Angel-Hair-Glitter-Strips.jpg",
-			"webLink": 		"http://www.americanails.com/download-center/images/web/nail-art/Angel-Hair/Angel-Hair-Glitter-Strips.jpg",
+			"imageUrl": 	"/static/download-center/images/web/nail-art/Angel-Hair/Angel-Hair-Glitter-Strips.jpg",
+			"webLink": 		"/static/download-center/images/web/nail-art/Angel-Hair/Angel-Hair-Glitter-Strips.jpg",
 			"printLink": 	"",
 			"epsLink":		"",
 			"psdLink":		"",
@@ -15,7 +15,7 @@
 		{
 			"title": 		"Download All WEB IMAGES for Angel Hair",
 			"imageUrl": 	"",
-			"webLink": 		"http://www.americanails.com/download-center/images/web/nail-art/Angel-Hair/Angel-Hair-WEB.zip",
+			"webLink": 		"/static/download-center/images/web/nail-art/Angel-Hair/Angel-Hair-WEB.zip",
 			"printLink": 	"",
 			"epsLink":		"",
 			"psdLink":		"",
@@ -26,31 +26,31 @@
 			"title": 		"Download All PRINT IMAGES for Angel Hair",
 			"imageUrl": 	"",
 			"webLink": 		"",
-			"printLink": 	"http://www.americanails.com/download-center/images/print/nail-art/Angel-Hair/Angel-Hair-TIFF.zip",
+			"printLink": 	"/static/download-center/images/print/nail-art/Angel-Hair/Angel-Hair-TIFF.zip",
 			"epsLink":		"",
 			"psdLink":		"",
-			"jpegLink":		"http://www.americanails.com/download-center/images/print/nail-art/Angel-Hair/Angel-Hair-JPEG.zip",			
+			"jpegLink":		"/static/download-center/images/print/nail-art/Angel-Hair/Angel-Hair-JPEG.zip",			
 			"pdfLink":		""
 		},
 		{
 			"title": 		"LOGO - CMYK",
-			"imageUrl": 	"http://www.americanails.com/download-center/logos/Angel-Hair.gif",
+			"imageUrl": 	"/static/download-center/logos/Angel-Hair.gif",
 			"webLink": 		"",
 			"printLink": 	"",
-			"epsLink":		"http://www.americanails.com/download-center/logos/Angel-Hair-CMYK.eps",
+			"epsLink":		"/static/download-center/logos/Angel-Hair-CMYK.eps",
 			"psdLink":		"",
 			"jpegLink":		"",			
-			"pdfLink":		"http://www.americanails.com/download-center/logos/Angel-Hair-CMYK.pdf"
+			"pdfLink":		"/static/download-center/logos/Angel-Hair-CMYK.pdf"
 		},
 		{
 			"title": 		"LOGO - BLACK",
-			"imageUrl": 	"http://www.americanails.com/download-center/logos/Angel-Hair-BLACK.gif",
+			"imageUrl": 	"/static/download-center/logos/Angel-Hair-BLACK.gif",
 			"webLink": 		"",
 			"printLink": 	"",
-			"epsLink":		"http://www.americanails.com/download-center/logos/Angel-Hair-BLACK.eps",
+			"epsLink":		"/static/download-center/logos/Angel-Hair-BLACK.eps",
 			"psdLink":		"",
 			"jpegLink":		"",			
-			"pdfLink":		"http://www.americanails.com/download-center/logos/Angel-Hair-BLACK.pdf"
+			"pdfLink":		"/static/download-center/logos/Angel-Hair-BLACK.pdf"
 		}
 	]
 }

@@ -3,9 +3,9 @@
 	"result": [
 		{
 			"title": 		"Download All WEB IMAGES for Fancy Foil",
-			"imageUrl": 	"http://www.americanails.com/download-center/images/web/nail-art/Fancy-Foil/Fancy-Foil.jpg",
+			"imageUrl": 	"/static/download-center/images/web/nail-art/Fancy-Foil/Fancy-Foil.jpg",
 			"webLink": 		"",
-			"printLink": 	"http://www.americanails.com/download-center/images/web/nail-art/Fancy-Foil/Fancy-Foil-WEB.zip",
+			"printLink": 	"/static/download-center/images/web/nail-art/Fancy-Foil/Fancy-Foil-WEB.zip",
 			"epsLink":		"",
 			"psdLink":		"",
 			"jpegLink":		"",			
@@ -13,9 +13,9 @@
 		},
 		{
 			"title": 		"Fancy Foil SILVER",
-			"imageUrl": 	"http://www.americanails.com/download-center/images/web/nail-art/Fancy-Foil/Fancy-Foil-Silver.jpg",
-			"webLink": 		"http://www.americanails.com/download-center/images/web/nail-art/Fancy-Foil/Fancy-Foil-Silver.jpg",
-			"printLink": 	"http://www.americanails.com/download-center/images/print/nail-art/Fancy-Foil/Fancy-Foil-SILVER.jpg",
+			"imageUrl": 	"/static/download-center/images/web/nail-art/Fancy-Foil/Fancy-Foil-Silver.jpg",
+			"webLink": 		"/static/download-center/images/web/nail-art/Fancy-Foil/Fancy-Foil-Silver.jpg",
+			"printLink": 	"/static/download-center/images/print/nail-art/Fancy-Foil/Fancy-Foil-SILVER.jpg",
 			"epsLink":		"",
 			"psdLink":		"",
 			"jpegLink":		"",			
@@ -23,9 +23,9 @@
 		},
 		{
 			"title": 		"Fancy Foil GOLD",
-			"imageUrl": 	"http://www.americanails.com/download-center/images/web/nail-art/Fancy-Foil/Fancy-Foil-Gold.jpg",
-			"webLink": 		"http://www.americanails.com/download-center/images/web/nail-art/Fancy-Foil/Fancy-Foil-Gold.jpg",
-			"printLink": 	"http://www.americanails.com/download-center/images/print/nail-art/Fancy-Foil/Fancy-Foil-GOLD.jpg",
+			"imageUrl": 	"/static/download-center/images/web/nail-art/Fancy-Foil/Fancy-Foil-Gold.jpg",
+			"webLink": 		"/static/download-center/images/web/nail-art/Fancy-Foil/Fancy-Foil-Gold.jpg",
+			"printLink": 	"/static/download-center/images/print/nail-art/Fancy-Foil/Fancy-Foil-GOLD.jpg",
 			"epsLink":		"",
 			"psdLink":		"",
 			"jpegLink":		"",			
@@ -33,23 +33,23 @@
 		},
 		{
 			"title": 		"Fancy Foil Logo COLOR",
-			"imageUrl": 	"http://www.americanails.com/download-center/logos/Fancy-Foil.jpg",
-			"webLink": 		"http://www.americanails.com/download-center/logos/Fancy-Foil.jpg",
+			"imageUrl": 	"/static/download-center/logos/Fancy-Foil.jpg",
+			"webLink": 		"/static/download-center/logos/Fancy-Foil.jpg",
 			"printLink": 	"",
-			"epsLink":		"http://www.americanails.com/download-center/logos/Fancy-Foil-CMYK.eps",
+			"epsLink":		"/static/download-center/logos/Fancy-Foil-CMYK.eps",
 			"psdLink":		"",
 			"jpegLink":		"",			
-			"pdfLink":		"http://www.americanails.com/download-center/logos/Fancy-Foil-CMYK.pdf"
+			"pdfLink":		"/static/download-center/logos/Fancy-Foil-CMYK.pdf"
 		},
 		{
 			"title": 		"Fancy Foil Logo BLACK",
-			"imageUrl": 	"http://www.americanails.com/download-center/logos/Fancy-Foil-BLACK.jpg",
-			"webLink": 		"http://www.americanails.com/download-center/logos/Fancy-Foil-BLACK.jpg",
+			"imageUrl": 	"/static/download-center/logos/Fancy-Foil-BLACK.jpg",
+			"webLink": 		"/static/download-center/logos/Fancy-Foil-BLACK.jpg",
 			"printLink": 	"",
-			"epsLink":		"http://www.americanails.com/download-center/logos/Fancy-Foil-BLACK.eps",
+			"epsLink":		"/static/download-center/logos/Fancy-Foil-BLACK.eps",
 			"psdLink":		"",
 			"jpegLink":		"",			
-			"pdfLink":		"http://www.americanails.com/download-center/logos/Fancy-Foil-BLACK.pdf"
+			"pdfLink":		"/static/download-center/logos/Fancy-Foil-BLACK.pdf"
 		}
 	]
 }
